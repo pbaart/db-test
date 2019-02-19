@@ -1,16 +1,16 @@
 {
-    title: "My Domain table",
-    sortOrder: 1,
-    domainList: [
-      {"id": 1, "domain:" "rellgast.com", "site": "www.rellgast.com", "owner:" "Clayton	Adkins"},
-{"id": 2, "domain:" "wounimia.com", "site": "www.wounimia.com", "owner:" "Alicia	Santiago"},
-{"id": 3, "domain:" "attantik.com", "site": "www.attantik.com", "owner:" "Ed	Wilson"},
-{"id": 4, "domain:" "jurgrate.com", "site": "www.jurgrate.com", "owner:" "Dixie	Pratt"},
-{"id": 5, "domain:" "drindimp.com", "site": "www.drindimp.com", "owner:" "Dorothy	Becker"},
-{"id": 6, "domain:" "heatatna.com", "site": "www.heatatna.com", "owner:" "Jessie	Klein"},
-{"id": 7, "domain:" "arabresl.com", "site": "www.arabresl.com", "owner:" "Rochelle	Sullivan"},
-{"id": 8, "domain:" "hicerris.com", "site": "www.hicerris.com", "owner:" "Rodney	Beck"},
-{"id": 9, "domain:" "bronseut.com", "site": "www.bronseut.com", "owner:" "Wanda	Wilkerson"},
+    "title": "My Domain table",
+    "sortOrder": 1,
+    "domainList": [
+{"id": 1, "domain": "rellgast.com", "site": "www.rellgast.com", "owner": "Clayton	Adkins"},
+{"id": 2, "domain": "wounimia.com", "site": "www.wounimia.com", "owner": "Alicia	Santiago"},
+{"id": 3, "domain": "attantik.com", "site": "www.attantik.com", "owner": "Ed	Wilson"},
+{"id": 4, "domain": "jurgrate.com", "site": "www.jurgrate.com", "owner": "Dixie	Pratt"},
+{"id": 5, "domain": "drindimp.com", "site": "www.drindimp.com", "owner": "Dorothy	Becker"},
+{"id": 6, "domain": "heatatna.com", "site": "www.heatatna.com", "owner": "Jessie	Klein"},
+{"id": 7, "domain": "arabresl.com", "site": "www.arabresl.com", "owner": "Rochelle	Sullivan"},
+{"id": 8, "domain": "hicerris.com", "site": "www.hicerris.com", "owner": "Rodney	Beck"},
+{"id": 9, "domain": "bronseut.com", "site": "www.bronseut.com", "owner": "Wanda	Wilkerson"},
 {"id": 10, "domain": "yurizart.com", "site": "www.yurizart.com", "owner": "Margarita	Moran"},
 {"id": 11, "domain": "teatitys.com", "site": "www.teatitys.com", "owner": "Al	Christensen"},
 {"id": 12, "domain": "ererslar.com", "site": "www.ererslar.com", "owner": "Bobby	Jacobs"},
@@ -35,5 +35,4 @@
 {"id": 31, "domain": "rhoupley.com", "site": "www.rhoupley.com", "owner": "Alton	Alvarado"},
 {"id": 32, "domain": "arrangia.com", "site": "www.arrangia.com", "owner": "Loren	Mckinney"},
 {"id": 33, "domain": "cerypoli.com", "site": "www.cerypoli.com", "owner": "Minnie	Rivera"}
-    ]
 }
