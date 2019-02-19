@@ -1,3 +1,4 @@
+[
 {
     "title": "My Domain table",
     "sortOrder": 1,
@@ -37,3 +38,4 @@
         {"id": 33, "domain": "cerypoli.com", "site": "www.cerypoli.com", "owner": "Minnie	Rivera"}
     ]
 }
+]
