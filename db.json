@@ -1,5 +1,4 @@
 
-{
     "title": "My Domain table",
     "sortOrder": 1,
     "domainList": [
@@ -34,5 +33,5 @@
         {"id": 29, "domain": "plottirk.com", "site": "www.plottirk.com", "owner": "Darryl Osborne"},
         {"id": 30, "domain": "scrittee.com", "site": "www.scrittee.com", "owner": "Lora Gilbert"}
     ]
-}
+
 
